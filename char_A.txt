@@ -1,0 +1,3 @@
+Character: A
+Row: 17
+Col: 9

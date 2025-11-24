@@ -1,0 +1,3 @@
+Character: B
+Row: 3
+Col: 7
